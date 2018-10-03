@@ -1,4 +1,4 @@
-# Project1-Developing-Data-Products       (The application predicts the price of diamonds).
+# Project1-Developing-Data-Products       (The application predicts the price of sapphire).
 
 
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
